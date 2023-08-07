@@ -17,7 +17,7 @@
 
 - 📫 Reach me out at **ayush.skg@gmail.com**
 
-- 🎓 Check out my <a href="https://ayushkumargupta.herokuapp.com/" target="_blank">**Portfolio Website**</a>
+- 🎓 Check out my <a href="https://ayushkumargupta.vercel.app/" target="_blank">**Portfolio Website**</a>
 
 <br>
 
