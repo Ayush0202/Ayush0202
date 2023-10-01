@@ -11,11 +11,9 @@ You can get in touch with me at ayush.skg@gmail.com
 
 Coding Profiles
 <br>
-<a href="">Leetcode</a> 
+<a href="https://leetcode.com/Ayush0202/">Leetcode</a> 
 &nbsp;
-<a href="">GeeksForGeeks</a>
-&nbsp;
-<a href="">CodeChef</a>
+<a href="https://auth.geeksforgeeks.org/user/ayush0202/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">GeeksForGeeks</a>
 
 Most used languages across my projects:
 
