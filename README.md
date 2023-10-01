@@ -7,7 +7,7 @@ I am currently in my final year of Bachelor of Technology (B. Tech) majoring in 
 
 You can get in touch with me at ayush.skg@gmail.com
 
-<a>Portfolio Website</a>
+<a href="https://ayushkumargupta.vercel.app/">Portfolio Website</a>
 
 Coding Profiles
 <br>
